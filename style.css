@@ -7,6 +7,16 @@ h1{
   color:white;
   font-family:DejaVu Sans Mono, monospace;
 }
+.title{
+text-align: center;
+  color:white;
+  font-family:DejaVu Sans Mono, monospace;
+}
+.word{
+text-align: center;
+  color:white;
+  font-family:DejaVu Sans Mono, monospace;
+}
 body{
   background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b24438a5-c7a5-4137-978a-a6315ded17bc/deuvu4w-dd5c8372-614b-478f-ac70-ddf14f70b04e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IyNDQzOGE1LWM3YTUtNDEzNy05NzhhLWE2MzE1ZGVkMTdiY1wvZGV1dnU0dy1kZDVjODM3Mi02MTRiLTQ3OGYtYWM3MC1kZGYxNGY3MGIwNGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iYtSd6SJnNZdr53uT-8gleAJS18PGBA7r4z_lnXl6qQ');
   background-size: cover;
