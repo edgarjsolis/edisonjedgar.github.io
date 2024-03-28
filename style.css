@@ -96,3 +96,13 @@ div {
 .project7:hover{
   transform: scale(1.5);
 }
+.me{
+color: white;
+  text-align:center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.me:hover{
+  transform: scale(1.5);
+}
