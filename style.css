@@ -36,6 +36,11 @@ body{
   text-align:center;
   font-family:DejaVu Sans Mono, monospace;
 }
+text1.{
+text-align: center;
+  color:white;
+  font-family:DejaVu Sans Mono, monospace;
+}
 
 .project2{
    color: white;
